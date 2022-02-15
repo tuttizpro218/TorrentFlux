@@ -7,4 +7,4 @@ Have a nice day!
 # How to install?
 1. Create a database and import the tf.sql to your created database.
 2. Upload the files into a folder on your server like: http://yourdomain.com/tf <- if you want.
-3. Set your login details in config.php.
+3. Set your database connection details in config.php.
